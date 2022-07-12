@@ -1,0 +1,21 @@
+primeiro passo : git init
+segundo passo : git add .
+terceiro passo :git status
+quarto passo :  git commit -m "mensagem do commit"
+quinto passo : ciriar um repositorio na nuvem ( github)
+sexto passo : git remote add origin ( colar o link da pagina repositorio )
+setimo passo : git push
+oitavo passo : copiar o cogigo que o git lhe deu 
+nono passo : colar o codigo do git abaixo
+
+conceito braunch.
+
+git branch
+git checkout nome-da-branch
+git checkout -b "nome da branch de origem" "nome da nova branch"
+git merge " branch a receber merge"
+git pull
+
+
+
+                                                                                                  tututial top : https://www.youtube.com/watch?v=kB5e-gTAl_s
