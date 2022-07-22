@@ -1,4 +1,4 @@
-primeiro passo : git init
+gitGprimeiro passo : git init
 segundo passo : git add .
 terceiro passo :git status
 quarto passo :  git commit -m "mensagem do commit"
@@ -16,6 +16,12 @@ git checkout -b "nome da branch de origem" "nome da nova branch"
 git merge " branch a receber merge"
 git pull
 
+
+Atualizaçoes:
+apos atualisar o codigo
+passo 1 : git status
+passo 2: git commit -m "mensagem da atualizaçao"
+passo : 3 git push
 
 
                                                                                                   tututial top : https://www.youtube.com/watch?v=kB5e-gTAl_s
