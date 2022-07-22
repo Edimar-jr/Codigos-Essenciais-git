@@ -18,11 +18,29 @@ git pull
 
 
 Atualizaçoes:
-apos atualisar o codigo
 passo 1 : git status
 passo 2: git add .
 passo 3: git commit -m "mensagem da atualizaçao"
 passo 4:  git push
 gti
 
+
+Saber versao atual:
+
+ git reflog
+
+versao anterios ( caso cometa erros )
+ git reste ( copiar a versao a ser apagada )
+
+ex : git reflog
+  
+ bfb5f66 (HEAD -> master, origin/master) HEAD@{0}: commit (initial): tags e comoponentes
+
+copiar o codigo acima : bfb5f66
+
+VOLTAR PARA VERSAO ATUAL 
+
+git reset --hard ( codigo da versao atual )
+
+ 
                                                                                                   tututial top : https://www.youtube.com/watch?v=kB5e-gTAl_s
